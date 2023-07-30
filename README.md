@@ -1,1 +1,1 @@
-# BrainZSpot_Checkpoint2
+# BrainZSpot_Dyslexia Detection Model
